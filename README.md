@@ -30,10 +30,10 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
 
 ---
 
-### 💻 Tech
+<h3 align="center">💻 Tech
 
 <img 
-    align="left" 
+    align="center" 
     alt="Python"
     title="Python" 
     width="30px" 
@@ -41,7 +41,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -49,7 +49,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -57,7 +57,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript"
     title="JavaScript"
     width="30px" 
@@ -65,7 +65,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Git"
     title="Git"
     width="30px" 
@@ -76,10 +76,10 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
 <br/>
 <br/>
 
-### 📊 Data & Analytics
+<h3 align="center">📊 Data & Analytics
 
 <img 
-    align="left" 
+    align="center" 
     alt="Excel"
     title="Excel" 
     width="30px" 
@@ -87,7 +87,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Power BI"
     title="Power BI" 
     width="30px" 
@@ -95,7 +95,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Pandas"
     title="Pandas"
     width="30px" 
@@ -103,7 +103,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Jupyter"
     title="Jupyter Notebook"
     width="30px" 
@@ -114,10 +114,10 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
 <br/>
 <br/>
 
-### 🧠 Recruiting Tools
+<h3 align="center">🧠 Recruiting Tools
 
 <img 
-    align="left" 
+    align="center" 
     alt="LinkedIn"
     title="LinkedIn Recruiter"
     width="30px" 
@@ -125,7 +125,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Slack"
     title="Slack"
     width="30px" 
@@ -133,7 +133,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Trello"
     title="Trello"
     width="30px" 
@@ -141,7 +141,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Miro"
     title="Miro"
     width="30px" 
