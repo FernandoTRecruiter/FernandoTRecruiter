@@ -84,7 +84,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     title="Excel" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" 
 />
 <img 
     align="center" 
@@ -100,7 +100,7 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
 />
 
 <br/>
