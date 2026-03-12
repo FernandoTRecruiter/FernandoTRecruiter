@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fernando L. Paoli 
+# 🦇 Fernando L. Paoli 
 **`Tech Recruiter & Technology Enthusiast`**
 
 Greetings! My name is Fernando and I’m a very curious person who loves learning about technology and people.
