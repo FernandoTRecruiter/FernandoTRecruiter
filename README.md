@@ -9,7 +9,7 @@ I also help people transition into new careers and reviewing resumes to improve 
 
 Feel free to reach out anytime, it will be a pleasure to connect! 🙂 
 
-<<p align="left">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/fernandopaoli">
   <img 
