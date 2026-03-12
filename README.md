@@ -96,19 +96,11 @@ Feel free to reach out anytime, it will be a pleasure to connect! 🙂
 />
 <img 
     align="center" 
-    alt="Pandas"
-    title="Pandas"
+    alt="SQL"
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
-/>
-<img 
-    align="center" 
-    alt="Jupyter"
-    title="Jupyter Notebook"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
 />
 
 <br/>
