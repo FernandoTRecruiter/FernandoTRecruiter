@@ -101,18 +101,16 @@ I hold a specialization in Human Resources Management and currently work as a Te
 
 ### 🐾 Animal Resources
 
-| | Woody | Lazuli | Petra |
+| | Woody 🐱 | Lazuli 🐱 | Petra 🐱 |
 |:---:|:---:|:---:|:---:|
-| | 🐱 | 🐱 | 🐱 |
 | **Role** | Senior Nap Analyst | Head of Chaos Management | Director of Vibes |
 | **Expertise** | Horizontal surfaces | Desk demolition | Ambient mood score |
 | **Review** | *"Attends meetings only if treats are involved."* | *"Knocked 3 laptops off the desk. Claims it was market research."* | *"Most photogenic employee 3 years running. Zero deliverables."* |
 
 ### 🛟 Emotional Support Team
 
-| | Absolut Vodka | Black Ice |
+| | Absolut Vodka 🍸 | Black Ice 🧊  |
 |:---:|:---:|:---:|
-| | 🍸 | 🧊 |
 | **Role** | VP of After-Hours Support | Chief Smoking Officer |
 | **SLA** | Immediately | Immediately(2) |
 | **Review** | *"Available 24/7. Especially at 2am on a Friday."* | *"cof cof cof cof c of cfooooof"* |
