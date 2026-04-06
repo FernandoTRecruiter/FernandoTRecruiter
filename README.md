@@ -41,7 +41,6 @@ I hold a specialization in Human Resources Management and currently work as a Te
   </a>
 </p>
 
----
 
 ## 🧰 Stack
 
@@ -68,25 +67,6 @@ I hold a specialization in Human Resources Management and currently work as a Te
   <img align="center" alt="Trello" title="Trello" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
   <img align="center" alt="Miro" title="Miro" width="30px" style="padding-right:10px" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg"/>
 </p>
-
----
-
-## 🧮 People Analytics Tools
-
-> Recruiting calculators, live charts, and the most unique org chart in HR history.
-
-<p align="center">
-  <a href="https://fernandotrecruiter.github.io/people-analytics-tools/#dashboard">
-    <img src="https://img.shields.io/badge/Open%20Interactive%20Dashboard-%E2%86%97%20Launch-6366f1?style=for-the-badge"/>
-  </a>
-</p>
-
-**What's inside:**
-- 📊 Live donut charts — hires by level, sector breakdown, caffeine consumed
-- 🧮 Calculators — Time-to-Hire, Cost per Hire, Selection Funnel
-- 👥 Flip-card org chart — click to reveal secret performance reviews
-
----
 
 ## 👥 The Teams
 
