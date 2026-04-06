@@ -113,10 +113,21 @@ I hold a specialization in Human Resources Management and currently work as a Te
 | | Absolut Vodka | Black Ice |
 |:---:|:---:|:---:|
 | | 🍸 | 🧊 |
-| **Role** | VP of After-Hours Support | Chief Cooling Officer |
-| **SLA** | Immediately | Slippery |
-| **Review** | *"Available 24/7. Especially at 2am on a Friday."* | *"Cool under pressure. Literally. Never overheats."* |
+| **Role** | VP of After-Hours Support | Chief Smoking Officer |
+| **SLA** | Immediately | Immediately(2) |
+| **Review** | *"Available 24/7. Especially at 2am on a Friday."* | *"cof cof cof cof c of cfooooof"* |
 
+---
+
+## 📬 Let's connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernandopaoli">
+    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Paoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <p align="right">
   <sub><code>Fernando L. Paoli · São Paulo, BR</code></sub>
