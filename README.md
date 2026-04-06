@@ -36,7 +36,7 @@ I hold a specialization in Human Resources Management and currently work as a Te
 </p>
 
 <p align="center">
-  <a href="https://fernandopaoli.github.io/people-analytics-tools">
+  <a href="https://fernandotrecruiter.github.io/people-analytics-tools/#dashboard">
     <img src="https://img.shields.io/badge/Interactive%20Dashboard-Open%20full%20experience%20%E2%86%97-6366f1?style=for-the-badge"/>
   </a>
 </p>
@@ -76,7 +76,7 @@ I hold a specialization in Human Resources Management and currently work as a Te
 > Recruiting calculators, live charts, and the most unique org chart in HR history.
 
 <p align="center">
-  <a href="https://fernandopaoli.github.io/people-analytics-tools">
+  <a href="https://fernandotrecruiter.github.io/people-analytics-tools/#dashboard">
     <img src="https://img.shields.io/badge/Open%20Interactive%20Dashboard-%E2%86%97%20Launch-6366f1?style=for-the-badge"/>
   </a>
 </p>
@@ -94,7 +94,7 @@ I hold a specialization in Human Resources Management and currently work as a Te
 > *Full interactive version:*
 
 <p align="center">
-  <a href="https://fernandopaoli.github.io/people-analytics-tools">
+  <a href="https://fernandotrecruiter.github.io/people-analytics-tools/#dashboard">
     <img src="https://img.shields.io/badge/Open%20Interactive%20Org%20Chart-%E2%86%97%20Launch-6366f1?style=for-the-badge"/>
   </a>
 </p>
