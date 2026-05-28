@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:6366f1,100:22d3ee&height=230&section=header&text=%F0%9F%A6%87%20Fernando%20L.%20Paoli&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tech%20Recruiter%20%E2%80%A2%20People%20Analytics%20%E2%80%A2%20S%C3%A3o%20Paulo%2C%20BR&descAlignY=62&descColor=c7d2fe"/>
 
@@ -62,7 +62,7 @@
 <br/>
 <img src="https://img.shields.io/badge/2%20Sectors-1a1a2e?style=flat-square&labelColor=f43f5e"/>
 <br/><strong>Industry Focus</strong>
-<br/><sub>Tech · Generalist</sub><br/><br/>
+<br/><sub>Tech · Engineering</sub><br/><br/>
 </td>
 </tr>
 </table>
@@ -75,7 +75,7 @@
 
 | Level | Hires | Share |
 |:------|------:|------:|
-| 🟣 **Basic** (Assistants / Juniors) | +100 | ~50% |
+| 🟣 **Basic** (Assistants / Juniors) | 100 | 50% |
 | 🔵 **Intermediate** (Pleno / Sênior) | 74 | 37% |
 | 🟡 **Advanced** (Specialists / Managers) | 25 | 12.5% |
 | 🔴 **Director** | 1 | 0.5% |
@@ -89,8 +89,8 @@
 
 | Sector | Hires | Typical Profiles |
 |:-------|------:|:----------------|
-| 🖥️ **Technology** (Services & Startups) | +150 | Devs, QA, Data, DevOps, Product |
-| 🏗️ **Generalist** | +50 | Engineers, Project Mgrs, Procurement, Lawyers |
+| 🖥️ **Technology** (Services & Startups) | 100 | Devs, QA, Data, DevOps, Product |
+| 🏗️ **Civil Engineering** (Supply Chain & Construction) | 100 | Engineers, Project Mgrs, Procurement |
 
 </details>
 
@@ -127,7 +127,7 @@ A complete interactive reference for HR & TA professionals with 10 validated KPI
 ### 🏢 Interactive HR Dashboard
 A live interactive People Analytics dashboard showcasing org charts, team data, and HR metrics — built to demonstrate real-world BI concepts.
 
-**→** [Open Interactive Dashboard](https://fernandotrecruiter.github.io/FernandoTRecruiter.2/)
+**→** [Open Interactive Dashboard](https://fernandotrecruiter.github.io/people-analytics-dashboard/)
 
 `HTML` `CSS` `JavaScript` `Power BI`
 
@@ -142,7 +142,7 @@ A live interactive People Analytics dashboard showcasing org charts, team data, 
   <a href="https://fernandotrecruiter.github.io/people-analytics-guide/index-en.html">
     <img src="https://img.shields.io/badge/📘%20People%20Analytics%20Guide-Open%20EN-2563eb?style=for-the-badge"/>
   </a>&nbsp;
-  <a href="https://fernandotrecruiter.github.io/FernandoTRecruiter.2/">
+  <a href="https://fernandotrecruiter.github.io/people-analytics-dashboard/">
     <img src="https://img.shields.io/badge/🏢%20Interactive%20Dashboard-Launch-6366f1?style=for-the-badge"/>
   </a>
 </p>
@@ -350,7 +350,7 @@ A live interactive People Analytics dashboard showcasing org charts, team data, 
     <img src="https://img.shields.io/badge/📗%20People%20Analytics%20Guide-Visit-16a34a?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="https://fernandotrecruiter.github.io/FernandoTRecruiter.2/">
+  <a href="https://fernandotrecruiter.github.io/people-analytics-dashboard/">
     <img src="https://img.shields.io/badge/🏢%20Interactive%20Dashboard-Launch-6366f1?style=for-the-badge"/>
   </a>
 </p>
