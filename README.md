@@ -62,7 +62,7 @@
 <br/>
 <img src="https://img.shields.io/badge/2%20Sectors-1a1a2e?style=flat-square&labelColor=f43f5e"/>
 <br/><strong>Industry Focus</strong>
-<br/><sub>Tech · Engineering</sub><br/><br/>
+<br/><sub>Tech · Generalist</sub><br/><br/>
 </td>
 </tr>
 </table>
@@ -75,7 +75,7 @@
 
 | Level | Hires | Share |
 |:------|------:|------:|
-| 🟣 **Basic** (Assistants / Juniors) | 100 | 50% |
+| 🟣 **Basic** (Assistants / Juniors) | +100 | ~50% |
 | 🔵 **Intermediate** (Pleno / Sênior) | 74 | 37% |
 | 🟡 **Advanced** (Specialists / Managers) | 25 | 12.5% |
 | 🔴 **Director** | 1 | 0.5% |
@@ -89,8 +89,8 @@
 
 | Sector | Hires | Typical Profiles |
 |:-------|------:|:----------------|
-| 🖥️ **Technology** (Services & Startups) | 100 | Devs, QA, Data, DevOps, Product |
-| 🏗️ **Civil Engineering** (Supply Chain & Construction) | 100 | Engineers, Project Mgrs, Procurement |
+| 🖥️ **Technology** (Services & Startups) | +150 | Devs, QA, Data, DevOps, Product |
+| 🏗️ **Generalist** | +50 | Engineers, Project Mgrs, Procurement, Lawyers |
 
 </details>
 
