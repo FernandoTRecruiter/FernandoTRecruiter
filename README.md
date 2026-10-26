@@ -1,364 +1,126 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,35:6366f1,100:22d3ee&height=230&section=header&text=%F0%9F%A6%87%20Fernando%20L.%20Paoli&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tech%20Recruiter%20%E2%80%A2%20People%20Analytics%20%E2%80%A2%20S%C3%A3o%20Paulo%2C%20BR&descAlignY=62&descColor=c7d2fe"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0D14,55:6D5AE6,100:B8ACFF&height=210&section=header&text=Fernando%20Paoli%20%F0%9F%A6%87&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=People%20Analytics%20%C2%B7%20automation%20%C2%B7%20AI&descAlignY=60&descColor=EDEBF5"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=6366f1&center=true&vCenter=true&width=720&lines=200%2B+hires+across+Tech+%26+Engineering+%F0%9F%9A%80;10K%2B+LinkedIn+followers+and+still+growing+%F0%9F%8C%B1;People+Analytics+enthusiast+%F0%9F%93%8A;Tech+Recruiter+who+actually+understands+the+stack+%F0%9F%A6%87"/>
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=19&duration=2600&pause=900&color=8B7CF0&center=true&vCenter=true&width=720&lines=From+tech+recruiting+to+HR+data+%F0%9F%A6%87;Dashboards+that+explain+their+own+numbers;Always+learning%2C+with+Claude+Code+as+my+pair"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/fernandopaoli">
-  <img alt="LinkedIn Followers" src="https://img.shields.io/badge/Followers-10k%2B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/fernandopaoli">
-  <img alt="LinkedIn Connections" src="https://img.shields.io/badge/Connections-500%2B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<img alt="Total Hires" src="https://img.shields.io/badge/Total%20Hires-200%2B-6366f1?style=for-the-badge"/>
+<a href="https://fernandotrecruiter.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-open%20the%20welcome%20letter-6D5AE6?style=for-the-badge"/></a>&nbsp;
+<img alt="Open to talk and projects" src="https://img.shields.io/badge/Open%20to-talk%20%26%20projects-3DDC84?style=for-the-badge"/>&nbsp;
+<a href="https://www.linkedin.com/in/fernandopaoli"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-fernandopaoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
-<!-- ══════════ DASHBOARD NAV ══════════ -->
-<p align="center">
-  <a href="#-analytics-dashboard"><kbd>&nbsp;📊 Analytics&nbsp;</kbd></a>
-  &nbsp;&nbsp;
-  <a href="#-my-projects"><kbd>&nbsp;🚀 Projects&nbsp;</kbd></a>
-  &nbsp;&nbsp;
-  <a href="#-stack"><kbd>&nbsp;🛠️ Stack&nbsp;</kbd></a>
-  &nbsp;&nbsp;
-  <a href="#-the-teams"><kbd>&nbsp;👥 Teams&nbsp;</kbd></a>
-  &nbsp;&nbsp;
-  <a href="#-quiz--can-you-think-like-a-people-analyst"><kbd>&nbsp;🎮 Play&nbsp;</kbd></a>
-</p>
+### 👋 Hi, I'm Fernando
 
----
-
-## 📊 Analytics Dashboard
-
-> *Real data · Real hires · Real caffeine*
-
-<!-- KPI TILES -->
-<table align="center">
-<tr>
-<td align="center" width="22%">
-<br/>
-<img src="https://img.shields.io/badge/200%2B-1a1a2e?style=flat-square&labelColor=6366f1"/>
-<br/><strong>Total Hires</strong>
-<br/><sub>↑ all levels</sub><br/><br/>
-</td>
-<td align="center" width="22%">
-<br/>
-<img src="https://img.shields.io/badge/~30d-1a1a2e?style=flat-square&labelColor=22d3ee"/>
-<br/><strong>Avg Time to Fill</strong>
-<br/><sub>↔ SHRM 30–45d</sub><br/><br/>
-</td>
-<td align="center" width="22%">
-<br/>
-<img src="https://img.shields.io/badge/10K%2B-1a1a2e?style=flat-square&labelColor=f59e0b"/>
-<br/><strong>LinkedIn Reach</strong>
-<br/><sub>↑ followers</sub><br/><br/>
-</td>
-<td align="center" width="22%">
-<br/>
-<img src="https://img.shields.io/badge/2%20Sectors-1a1a2e?style=flat-square&labelColor=f43f5e"/>
-<br/><strong>Industry Focus</strong>
-<br/><sub>Tech · Engineering</sub><br/><br/>
-</td>
-</tr>
-</table>
-
-<!-- SLICERS -->
-<details>
-<summary><strong>📋 Slicer — Filter by Level</strong> &nbsp;<sub>(click to expand)</sub></summary>
-
-<br/>
-
-| Level | Hires | Share |
-|:------|------:|------:|
-| 🟣 **Basic** (Assistants / Juniors) | 100 | 50% |
-| 🔵 **Intermediate** (Pleno / Sênior) | 74 | 37% |
-| 🟡 **Advanced** (Specialists / Managers) | 25 | 12.5% |
-| 🔴 **Director** | 1 | 0.5% |
-
-</details>
-
-<details>
-<summary><strong>📋 Slicer — Filter by Sector</strong> &nbsp;<sub>(click to expand)</sub></summary>
-
-<br/>
-
-| Sector | Hires | Typical Profiles |
-|:-------|------:|:----------------|
-| 🖥️ **Technology** (Services & Startups) | 100 | Devs, QA, Data, DevOps, Product |
-| 🏗️ **Civil Engineering** (Supply Chain & Construction) | 100 | Engineers, Project Mgrs, Procurement |
-
-</details>
-
-<!-- CHARTS -->
-<p align="center">
-  <img width="340" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Basic%20(100)%22%2C%22Intermediate%20(74)%22%2C%22Advanced%20(25)%22%2C%22Director%20(1)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B100%2C74%2C25%2C1%5D%2C%22backgroundColor%22%3A%5B%22%236366f1%22%2C%22%2322d3ee%22%2C%22%23f59e0b%22%2C%22%23f43f5e%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22200%2B%20Hires%20by%20Level%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%7D%7D%7D"/>
-  &nbsp;
-  <img width="340" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Basic%22%2C%22Intermediate%22%2C%22Advanced%22%2C%22Director%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Hires%22%2C%22data%22%3A%5B100%2C74%2C25%2C1%5D%2C%22backgroundColor%22%3A%5B%22%236366f1%22%2C%22%2322d3ee%22%2C%22%23f59e0b%22%2C%22%23f43f5e%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Hires%20by%20Level%20%E2%80%94%20Detail%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22beginAtZero%22%3Atrue%7D%7D%5D%7D%7D%7D"/>
-</p>
+I started in **tech recruiting** (200+ hires) and today I work on the **data side of HR**: people dashboards, automations and small HR apps. I like tools that people actually use and numbers that explain themselves, and I build them with **Claude Code** as my pair.
 
 <p align="center">
-  <img width="300" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22polarArea%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Monster%20Energy%22%2C%22Coffee%22%2C%22Thermogenics%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B80%2C15%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23f43f5e%22%2C%22%236366f1%22%2C%22%23f59e0b%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Daily%20Fuel%20Mix%20(survival%20kit)%22%2C%22fontSize%22%3A15%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%7D%7D%7D%7D"/>
+  <a href="https://fernandotrecruiter.github.io/"><img alt="Open my portfolio" src="https://img.shields.io/badge/%F0%9F%A6%87%20OPEN%20MY%20PORTFOLIO-fernandotrecruiter.github.io-6D5AE6?style=for-the-badge&labelColor=17151F"/></a>
 </p>
 
----
-
-## 🚀 My Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 People Analytics Guide
-A complete interactive reference for HR & TA professionals with 10 validated KPIs, benchmarks, formulas in 4 environments, business Q&A, and a 12-month roadmap.
-
-**🇧🇷 PT** → [Open green version](https://fernandotrecruiter.github.io/people-analytics-guide/)
-**🇺🇸 EN** → [Open blue version](https://fernandotrecruiter.github.io/people-analytics-guide/index-en.html)
-
-`DAX` `SQL` `Python` `Power BI` `Star Schema`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 Interactive HR Dashboard
-A live interactive People Analytics dashboard showcasing org charts, team data, and HR metrics — built to demonstrate real-world BI concepts.
-
-**→** [Open Interactive Dashboard](https://fernandotrecruiter.github.io/people-analytics-dashboard/)
-
-`HTML` `CSS` `JavaScript` `Power BI`
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://fernandotrecruiter.github.io/people-analytics-guide/">
-    <img src="https://img.shields.io/badge/📗%20People%20Analytics%20Guide-Open%20PT-16a34a?style=for-the-badge"/>
-  </a>&nbsp;
-  <a href="https://fernandotrecruiter.github.io/people-analytics-guide/index-en.html">
-    <img src="https://img.shields.io/badge/📘%20People%20Analytics%20Guide-Open%20EN-2563eb?style=for-the-badge"/>
-  </a>&nbsp;
-  <a href="https://fernandotrecruiter.github.io/people-analytics-dashboard/">
-    <img src="https://img.shields.io/badge/🏢%20Interactive%20Dashboard-Launch-6366f1?style=for-the-badge"/>
-  </a>
-</p>
+> 🎮 A little version of me walks you through each project and tells *what I did and why*.
 
 ---
 
-## 🎮 Quiz — Can you think like a People Analyst?
+### 🧭 What I work on
 
-> Click the option you think is correct — just like a real dashboard filter!
-> No sign-up. No timer. Just HR thinking.
+- 📊 **People dashboards** that show how each number is counted. [Live demo](https://fernandotrecruiter.github.io/people-analytics-dashboard/)
+- 🧩 **HR apps**: job catalog, org chart, employee portal. [Job management](https://fernandotrecruiter.github.io/gerenciamento-de-cargos/)
+- ⚙️ **Automation** with Power Automate, Python and Apps Script. [Flowcharts](https://fernandotrecruiter.github.io/#j-fluxos)
+- 🤖 **AI as a teammate**: agents that test and check the work before it ships. [How I use it](https://fernandotrecruiter.github.io/#j-agentes)
+
+---
+
+### 🚀 Featured repositories
+
+All demos use a **fictional company** (C. & Paoli corp.): every person and number is generated.
+
+| Repository | What it is |
+|---|---|
+| [people-analytics-dashboard](https://github.com/FernandoTRecruiter/people-analytics-dashboard) | Executive people dashboard: the math behind every number, the names behind every bar, and a Power BI mode |
+| [gerenciamento-de-cargos](https://github.com/FernandoTRecruiter/gerenciamento-de-cargos) | Job management: positions, pay ranges, a career map, a request page and the documentation of each role |
+| [organograma-institucional-2](https://github.com/FernandoTRecruiter/organograma-institucional-2) | Interactive org chart with search, open positions and a Power BI mode |
+| [claude-graphify-template](https://github.com/FernandoTRecruiter/claude-graphify-template) | A map of what Claude Code knows and uses, with an [interactive simulation](https://fernandotrecruiter.github.io/claude-graphify-template/demo/) |
+| [portal-do-colaborador](https://github.com/FernandoTRecruiter/portal-do-colaborador) | One-page HR portal with an admin mode, so HR edits without touching code |
+| [Automation.HappyBirthday.Static](https://github.com/FernandoTRecruiter/Automation.HappyBirthday.Static) | Birthday email bot on Google Apps Script, with tests |
+
+<p align="center"><b>This isn't everything.</b> The full story, live demos and the work behind each project are in my <a href="https://fernandotrecruiter.github.io/"><b>portfolio →</b></a></p>
+
+<sub>Side projects: [geometry-reaper](https://github.com/FernandoTRecruiter/geometry-reaper) (a browser game), [financas-pessoais](https://github.com/FernandoTRecruiter/financas-pessoais) (personal finance) and [alcova-flat-executivo](https://github.com/FernandoTRecruiter/alcova-flat-executivo) (a rental site).</sub>
+
+---
+
+### 🧰 Stack
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML%20%C2%B7%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/People%20Analytics-6D5AE6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recruiting-17151F?style=flat-square"/>
+
+---
+
+### 🤖 How I work with Claude
+
+```mermaid
+flowchart LR
+    A["I describe the problem<br/>(what, for whom, which source)"] --> B["Claude Code builds"]
+    B --> C{"Agents check"}
+    C -->|the numbers| D["I review and decide"]
+    C -->|every click| D
+    D --> E["Ship"]
+```
+
+---
+
+### 📚 Lessons I learned
+
+- A green test run doesn't replace opening the screen and looking.
+- "Accepted" is not "delivered": check that the message actually arrived.
+- Personal data never goes into a repository.
 
 <details>
-<summary>🟣 <strong>Question 1:</strong> Turnover Rate is 22%. The CEO asks: "Is this a problem?" — pick your answer</summary>
+<summary>🇧🇷 <b>Em português</b></summary>
 <br/>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔵 A) "Depends — what's the voluntary vs. involuntary split and the industry benchmark?"</summary>
+Comecei no **recrutamento tech** (200+ contratações) e hoje trabalho na **parte de dados do RH**: painéis de pessoas, automações e pequenos apps de RH. Gosto de ferramenta que as pessoas usam de verdade e de número que se explica sozinho, e construo tudo com o **Claude Code** como dupla.
 
-> ✅ **Correct!** 22% needs context. SHRM benchmark is 10–15% — but voluntary turnover is the real signal. If most exits are involuntary (layoffs), it's a very different story. Always segment before concluding.
+Todas as demos usam uma **empresa fictícia** (C. & Paoli corp.): pessoas e números são gerados.
 
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔴 B) "Yes, it's above benchmark — we need to hire more people."</summary>
-
-> ❌ Hiring more doesn't fix high turnover. That's like refilling a leaking bucket. The root cause could be compensation, management quality, or broken onboarding. Fix the leak first.
+👉 **[Abra o meu portfólio](https://fernandotrecruiter.github.io/)**: um bonequinho meu conta o que eu fiz em cada projeto e por quê.
 
 </details>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🟡 C) "22% is high. Let's run an engagement survey."</summary>
-
-> ⚠️ Partially right — engagement data helps, but you're skipping the diagnostic step. First segment by department, tenure bracket, and voluntary/involuntary split. Then decide on the research method.
-
-</details>
-</details>
-
----
-
-<details>
-<summary>🟣 <strong>Question 2:</strong> eNPS dropped 15 points in one quarter. First move?</summary>
+<details open>
+<summary>🐾 <b>Animal Resources Department</b></summary>
 <br/>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔵 A) Segment: is the drop concentrated in one team or company-wide?</summary>
-
-> ✅ **Correct!** A company-wide 15-point drop can hide a 40-point drop in one team and 0 in others. Always segment before acting — one manager can tank the whole score.
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔴 B) Launch an "employee appreciation week" immediately.</summary>
-
-> ❌ Treating the symptom, not the disease. If employees know you're reacting with perks instead of real change, trust drops even further. Diagnose first.
+```mermaid
+flowchart TD
+    F["🦇 Fernando<br/>Head of Humans"] --> W["🐱 Woody<br/>Senior Nap Analyst"]
+    F --> L["🐱 Lazuli<br/>Head of Chaos Management"]
+    F --> P["🐱 Petra<br/>Director of Vibes"]
+    W -.- WR["Attends meetings only<br/>if treats are involved"]
+    L -.- LR["Knocked 3 laptops off the desk.<br/>Claims it was market research"]
+    P -.- PR["Most photogenic employee 3 years running.<br/>Zero deliverables"]
+```
 
 </details>
 
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🟡 C) Schedule a company all-hands to discuss the results.</summary>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8ACFF,45:6D5AE6,100:0E0D14&height=110&section=footer"/>
 
-> ⚠️ Transparency is important — but before communicating, you need to know *what* to communicate. Segment first, build a 30-day action plan, *then* share.
+<p align="center"><a href="https://www.linkedin.com/in/fernandopaoli"><img alt="Open to talk and projects" src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-talk%20and%20projects-17151F?style=for-the-badge&labelColor=6D5AE6"/></a></p>
 
-</details>
-</details>
-
----
-
-<details>
-<summary>🟣 <strong>Question 3:</strong> A hire scored 9/10 in performance and is still active after 12 months. Quality of Hire = ?</summary>
-<br/>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔵 A) 95</summary>
-
-> ✅ **Correct!** Quality of Hire = (Performance Score + Retention Score) / 2 = (90 + 100) / 2 = **95**. Performance 9/10 → 90 points. Still active after 12 months → Retention Score = 100.
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔴 B) 9 / 10</summary>
-
-> ❌ That's just the raw performance score. Quality of Hire combines two dimensions: Performance *and* Retention. Don't leave the retention half on the table!
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🟡 C) 100</summary>
-
-> ⚠️ Close! 100 would require perfect performance (10/10 = 100) + perfect retention. Since performance was 9/10 (90), QoH = (90 + 100) / 2 = 95, not 100.
-
-</details>
-</details>
-
----
-
-<details>
-<summary>🟣 <strong>Question 4:</strong> An offer was declined. OAR is at 68%. What should you investigate first?</summary>
-<br/>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔵 A) Compensation benchmarking vs. market — are we competitive?</summary>
-
-> ✅ **Strong first move!** OAR below 70% (benchmark ≥ 85%) is almost always a compensation or EVP (Employee Value Proposition) signal. Pull market data (LinkedIn Salary Insights, Radford) and compare.
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🔴 B) Interview the recruiter — maybe they're selling the role poorly.</summary>
-
-> ❌ Possible, but unlikely to explain a systemic 68% OAR. Start with data (compensation benchmarks, counter-offer patterns) before drawing conclusions about individual performance.
-
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;🟡 C) Speed up the offer process — candidates are accepting other offers first.</summary>
-
-> ⚠️ Timing *can* be a factor — but at 68% OAR, speed is rarely the primary cause. More likely: the offer isn't competitive enough for candidates to say yes regardless of timing.
-
-</details>
-</details>
-
----
-
-## 🧰 Stack
-
-<h3 align="center">💻 Tech</h3>
-<p align="center">
-  <img align="center" alt="Python" title="Python" width="32px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  &nbsp;
-  <img align="center" alt="HTML" title="HTML" width="32px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  &nbsp;
-  <img align="center" alt="CSS" title="CSS" width="32px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  &nbsp;
-  <img align="center" alt="JavaScript" title="JavaScript" width="32px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  &nbsp;
-  <img align="center" alt="Git" title="Git" width="32px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</p>
-
-<h3 align="center">📊 Data & Analytics</h3>
-<p align="center">
-  <img align="center" alt="Power BI" title="Power BI" width="32px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
-  &nbsp;
-  <img align="center" alt="Excel" title="Excel" width="32px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"/>
-  &nbsp;
-  <img align="center" alt="SQL" title="SQL" width="32px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</p>
-
-<details>
-<summary>🛠️ Full skill breakdown</summary>
-<br/>
-
-| Area | Tools |
-|------|-------|
-| **BI & Analytics** | Power BI · DAX · Star Schema · Power Query · Excel pivot |
-| **Programming** | Python (pandas, matplotlib) · SQL (CTEs, window functions) · JavaScript |
-| **Recruiting** | LinkedIn Recruiter · Boolean search · ATS (Greenhouse, Lever, Gupy) |
-| **Collab & PM** | Slack · Trello · Miro · Notion |
-| **Web** | HTML · CSS · GitHub Pages · Git |
-
-</details>
-
----
-
-## 👥 The Teams
-
-<details>
-<summary>🐾 <strong>Animal Resources Department</strong> — click to review</summary>
-
-<br/>
-
-| | Woody 🐱 | Lazuli 🐱 | Petra 🐱 |
-|:---:|:---:|:---:|:---:|
-| **Role** | Senior Nap Analyst | Head of Chaos Management | Director of Vibes |
-| **Expertise** | Horizontal surfaces | Desk demolition | Ambient mood score |
-| **eNPS Score** | 47 🟢 | -12 🔴 | 38 🟢 |
-| **Flight Risk** | Low (full food bowl) | High (always plotting) | Medium (mood-dependent) |
-| **Performance Review** | *"Attends meetings only if treats are involved."* | *"Knocked 3 laptops off the desk. Claims it was market research."* | *"Most photogenic employee 3 years running. Zero deliverables."* |
-
-</details>
-
-<details>
-<summary>🛟 <strong>Emotional Support Division</strong> — handle with care</summary>
-
-<br/>
-
-| | Absolut Vodka 🍸 | Black Ice 🧊 |
-|:---:|:---:|:---:|
-| **Role** | VP of After-Hours Support | Chief Smoking Officer |
-| **SLA** | Immediate | Immediate (²) |
-| **Retention Risk** | Low (I'll never leave you) | Chronic (but still shows up) |
-| **Performance Review** | *"Available 24/7. Especially at 2am on a Friday."* | *"cof cof cof cof c of cfooooof"* |
-
-</details>
-
----
-
-## 📬 Let's connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernandopaoli">
-    <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Paoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://fernandotrecruiter.github.io/people-analytics-guide/">
-    <img src="https://img.shields.io/badge/📗%20People%20Analytics%20Guide-Visit-16a34a?style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://fernandotrecruiter.github.io/people-analytics-dashboard/">
-    <img src="https://img.shields.io/badge/🏢%20Interactive%20Dashboard-Launch-6366f1?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:1a1a2e&height=130&section=footer"/>
-
-<p align="right">
-  <sub><code>Fernando L. Paoli · São Paulo, BR · 🦇 always learning</code></sub>
-</p>
+<p align="right"><sub><code>Fernando Paoli · Brazil · 🦇 always learning</code></sub></p>
